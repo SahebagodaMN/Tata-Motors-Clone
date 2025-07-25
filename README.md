@@ -5,7 +5,7 @@ A fully responsive **Tata Motors official site clone** built using **HTML, CSS, 
 ## 🌐 Live Preview
 
 
-*  <a href="https://sahebagodamn.github.io/Tata-Motors-Clone/">Live Site Link</a>
+*  <a href="https://sahebagodamn.github.io/Tata-Motors-Clone/">Live Demo Link</a>
 ---
 
 ## 📸 Screenshots
