@@ -10,9 +10,7 @@ A fully responsive **Tata Motors official site clone** built using **HTML, CSS, 
 
 ## 📸 Screenshots
 
-*(Add screenshots here if available — you can upload to GitHub and use Markdown syntax to display them)*
-
-```
+*(Add screenshots here if available — you can upload to GitHub and use Markdown syntax to display them)
 
 ---
 
